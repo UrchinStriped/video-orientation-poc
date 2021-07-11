@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Urchinstripe/video-orientation-poc/static/css/main.aa267a11.chunk.css",
-    "main.js": "/Urchinstripe/video-orientation-poc/static/js/main.44793981.chunk.js",
-    "main.js.map": "/Urchinstripe/video-orientation-poc/static/js/main.44793981.chunk.js.map",
-    "runtime-main.js": "/Urchinstripe/video-orientation-poc/static/js/runtime-main.c56eb2e0.js",
-    "runtime-main.js.map": "/Urchinstripe/video-orientation-poc/static/js/runtime-main.c56eb2e0.js.map",
-    "static/js/2.45e748fc.chunk.js": "/Urchinstripe/video-orientation-poc/static/js/2.45e748fc.chunk.js",
-    "static/js/2.45e748fc.chunk.js.map": "/Urchinstripe/video-orientation-poc/static/js/2.45e748fc.chunk.js.map",
-    "index.html": "/Urchinstripe/video-orientation-poc/index.html",
-    "static/css/main.aa267a11.chunk.css.map": "/Urchinstripe/video-orientation-poc/static/css/main.aa267a11.chunk.css.map",
-    "static/js/2.45e748fc.chunk.js.LICENSE.txt": "/Urchinstripe/video-orientation-poc/static/js/2.45e748fc.chunk.js.LICENSE.txt"
+    "main.css": "/video-orientation-poc/static/css/main.aa267a11.chunk.css",
+    "main.js": "/video-orientation-poc/static/js/main.44793981.chunk.js",
+    "main.js.map": "/video-orientation-poc/static/js/main.44793981.chunk.js.map",
+    "runtime-main.js": "/video-orientation-poc/static/js/runtime-main.57604c75.js",
+    "runtime-main.js.map": "/video-orientation-poc/static/js/runtime-main.57604c75.js.map",
+    "static/js/2.45e748fc.chunk.js": "/video-orientation-poc/static/js/2.45e748fc.chunk.js",
+    "static/js/2.45e748fc.chunk.js.map": "/video-orientation-poc/static/js/2.45e748fc.chunk.js.map",
+    "index.html": "/video-orientation-poc/index.html",
+    "static/css/main.aa267a11.chunk.css.map": "/video-orientation-poc/static/css/main.aa267a11.chunk.css.map",
+    "static/js/2.45e748fc.chunk.js.LICENSE.txt": "/video-orientation-poc/static/js/2.45e748fc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c56eb2e0.js",
+    "static/js/runtime-main.57604c75.js",
     "static/js/2.45e748fc.chunk.js",
     "static/css/main.aa267a11.chunk.css",
     "static/js/main.44793981.chunk.js"
